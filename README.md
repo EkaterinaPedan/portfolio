@@ -1,1 +1,1 @@
-* [Курсовая работа]()
+* [Курсовая работа](https://github.com/EkaterinaPedan/portfolio/tree/main/coursework)
